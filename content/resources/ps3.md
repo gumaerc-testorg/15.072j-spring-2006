@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8f191600-4735-75e2-3420-9da50ff4a77e
 resourcetype: Document
 title: ps3.pdf
 uid: b38ee315-c510-5283-4e36-a10783b6832a
