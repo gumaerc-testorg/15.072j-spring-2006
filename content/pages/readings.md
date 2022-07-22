@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the required text, papers, references for this
+  course listed as per the course schedule.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4b15b9ba-1acf-7dbc-f58e-5dff904c775c
 ---
