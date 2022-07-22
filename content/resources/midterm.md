@@ -5,6 +5,7 @@ file: /courses/15-072j-queues-theory-and-applications-spring-2006/45994be8bba70d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm.pdf
 uid: 45994be8-bba7-0deb-903b-df6d7b568b35
 ---
 This resource provides the midterm exam paper for this course.
-

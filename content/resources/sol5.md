@@ -5,6 +5,7 @@ file: /courses/15-072j-queues-theory-and-applications-spring-2006/1d351327d40105
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol5.pdf
 uid: 1d351327-d401-0526-01fa-7ac0e9fcd8a7
 ---
 This resource provides solutions to the problem set on markov process.
-

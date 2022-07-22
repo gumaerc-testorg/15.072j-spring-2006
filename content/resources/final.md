@@ -5,6 +5,7 @@ file: /courses/15-072j-queues-theory-and-applications-spring-2006/93b354bbd542ac
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final.pdf
 uid: 93b354bb-d542-ac4f-5158-3fb1104b30df
 ---
 This resource provides the take home final exam for this course.
-
