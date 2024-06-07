@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides problems related to the topic G/M/1 queueing system.
 file: /courses/15-072j-queues-theory-and-applications-spring-2006/f55bbfa08f352c3b100181c0bd11652f_ps4.pdf
+file_size: 72955
 file_type: application/pdf
 learning_resource_types:
 - Assignments

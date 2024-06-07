@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides the take home final exam for this course.
 file: /courses/15-072j-queues-theory-and-applications-spring-2006/93b354bbd542ac4f51583fb1104b30df_final.pdf
+file_size: 103151
 file_type: application/pdf
 learning_resource_types:
 - Exams
