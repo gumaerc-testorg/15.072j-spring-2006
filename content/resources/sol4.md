@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides solutions to the problem set on the topic G/M/1
   queueing system.
-file: /courses/15-072j-queues-theory-and-applications-spring-2006/993e13a9105287dd88f66d9f3c8fd2f3_sol4.pdf
+file: /ol-ocw-studio-app/courses/15-072j-queues-theory-and-applications-spring-2006/993e13a9105287dd88f66d9f3c8fd2f3_sol4.pdf
 file_size: 163257
 file_type: application/pdf
 learning_resource_types:
