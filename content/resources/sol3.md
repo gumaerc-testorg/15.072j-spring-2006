@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides solutions to the problem set on queueing systems.
-file: /courses/15-072j-queues-theory-and-applications-spring-2006/017e32076ecd407054ec04db22984c3e_sol3.pdf
+file: /ol-ocw-studio-app/courses/15-072j-queues-theory-and-applications-spring-2006/017e32076ecd407054ec04db22984c3e_sol3.pdf
 file_size: 137068
 file_type: application/pdf
 learning_resource_types:
