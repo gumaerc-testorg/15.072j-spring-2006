@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides solutions to the problem set on topics like ergodicity
   condition, transient distribution, coxian distribution, and Palm-Khintchine theorem.
-file: /ol-ocw-studio-app/courses/15-072j-queues-theory-and-applications-spring-2006/5a7eb3a751ba47ca9e246802e44cbb4a_sol1.pdf
+file: /courses/15-072j-queues-theory-and-applications-spring-2006/5a7eb3a751ba47ca9e246802e44cbb4a_sol1.pdf
 file_size: 232355
 file_type: application/pdf
 learning_resource_types:
