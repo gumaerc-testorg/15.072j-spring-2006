@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides the midterm exam paper for this course.
-file: /ol-ocw-studio-app/courses/15-072j-queues-theory-and-applications-spring-2006/45994be8bba70deb903bdf6d7b568b35_midterm.pdf
+file: /courses/15-072j-queues-theory-and-applications-spring-2006/45994be8bba70deb903bdf6d7b568b35_midterm.pdf
 file_size: 94061
 file_type: application/pdf
 learning_resource_types:
